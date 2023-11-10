@@ -1,1 +1,0 @@
-# point-of-sales-delphi-xe-mysql
