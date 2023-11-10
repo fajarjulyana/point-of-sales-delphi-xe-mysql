@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/10/06 06:37:22.000.434,=C:\Users\Arvin Studio\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/10/06 07:15:57.000.941,=C:\Users\Arvin Studio\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/10/06 07:19:56.000.481,=C:\Users\Arvin Studio\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/10/06 07:22:08.000.203,=C:\Users\Arvin Studio\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/10/09 06:40:43.000.897,=C:\Users\Arvin Studio\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/10/09 07:44:43.000.374,=C:\Users\Arvin Studio\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/10/09 20:03:01.000.428,=C:\Users\Arvin Studio\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/10/10 19:47:58.000.127,=C:\Users\Arvin Studio\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/10/11 05:29:50.000.485,=C:\Users\Arvin Studio\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/10/11 10:28:31.000.749,=C:\Users\Arvin Studio\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/10/12 13:57:44.000.278,=C:\Users\Arvin Studio\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/10/14 06:02:45.000.277,=C:\Users\Arvin Studio\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/10/14 06:09:23.000.935,=C:\Users\Arvin Studio\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/10/14 17:26:39.000.747,=C:\Users\Arvin Studio\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/10/14 17:27:42.000.139,=C:\Users\Arvin Studio\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/10/14 17:29:55.000.094,=C:\Users\Arvin Studio\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/10/15 05:04:09.000.952,=C:\Users\Arvin Studio\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/10/15 07:23:35.000.020,=C:\Users\Arvin Studio\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/10/15 07:52:59.000.635,=C:\Users\Arvin Studio\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/10/15 08:30:16.000.713,=C:\Users\Arvin Studio\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/10/15 13:52:13.000.953,=C:\Users\Arvin Studio\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/10/16 20:19:15.000.378,=C:\Users\Arvin Studio\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/10/17 07:33:47.000.626,=C:\Users\Arvin Studio\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/10/31 09:05:51.000.234,=C:\Users\Arvin Studio\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/11/06 21:17:48.000.131,=C:\Users\Arvin Studio\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/11/09 13:30:40.000.158,=C:\Users\Arvin Studio\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/11/09 13:31:04.000.962,D:\Point-of-Sales\src\MainForm.pas=C:\Users\Arvin Studio\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/11/09 13:31:04.000.962,D:\Point-of-Sales\src\MainForm.dfm=C:\Users\Arvin Studio\Documents\RAD Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2023/11/09 13:31:09.000.132,D:\Point-of-Sales\pos.dproj=C:\Users\Arvin Studio\Documents\RAD Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2023/11/09 14:17:32.000.922,=D:\Point-of-Sales\Unit1.pas</Transaction>
+    <Transaction>2023/11/09 14:17:47.000.510,D:\Point-of-Sales\src\DataModule.dfm=D:\Point-of-Sales\Unit1.dfm</Transaction>
+    <Transaction>2023/11/09 14:17:47.000.510,D:\Point-of-Sales\src\DataModule.pas=D:\Point-of-Sales\Unit1.pas</Transaction>
+    <Transaction>2023/11/09 14:42:52.000.969,=D:\Point-of-Sales\Unit1.pas</Transaction>
+    <Transaction>2023/11/09 14:43:21.000.549,D:\Point-of-Sales\src\InputBarang.pas=D:\Point-of-Sales\Unit1.pas</Transaction>
+    <Transaction>2023/11/09 14:43:21.000.549,D:\Point-of-Sales\src\InputBarang.dfm=D:\Point-of-Sales\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
