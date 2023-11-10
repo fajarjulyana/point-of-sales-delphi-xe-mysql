@@ -1,0 +1,55 @@
+object DataModuleActive: TDataModuleActive
+  OldCreateOrder = False
+  Height = 140
+  Width = 323
+  object Koneksi: TADOConnection
+    Connected = True
+    ConnectionString = 
+      'Provider=MSDASQL.1;Persist Security Info=False;Data Source=MySql' +
+      ';Mode=ReadWrite;Initial Catalog=pointofsalesdb'
+    LoginPrompt = False
+    Mode = cmReadWrite
+    Left = 64
+    Top = 48
+  end
+  object DataSource1: TDataSource
+    DataSet = ADOTable1
+    Left = 104
+    Top = 48
+  end
+  object ADOTable1: TADOTable
+    Connection = Koneksi
+    CursorType = ctStatic
+    TableDirect = True
+    TableName = 'detail_penjualan'
+    Left = 120
+    Top = 88
+  end
+  object DataSource2: TDataSource
+    DataSet = ADOTable2
+    Left = 64
+    Top = 96
+  end
+  object ADOTable2: TADOTable
+    Connection = Koneksi
+    CursorType = ctStatic
+    TableName = 'produk'
+    Left = 56
+    Top = 32
+  end
+  object ADODataSet1: TADODataSet
+    Active = True
+    Connection = Koneksi
+    CursorType = ctStatic
+    ExecuteOptions = [eoAsyncExecute, eoAsyncFetch, eoAsyncFetchNonBlocking, eoExecuteNoRecords]
+    CommandText = 'select * from produk'
+    Parameters = <>
+    Left = 192
+    Top = 16
+  end
+  object DataSource3: TDataSource
+    DataSet = ADODataSet1
+    Left = 232
+    Top = 80
+  end
+end
